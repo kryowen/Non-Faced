@@ -1,0 +1,3536 @@
+fileFormatVersion: 2
+guid: ecf3e9d7e26c1584c8c54b6b3502cd61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1329559536190186363
+    second: bosscharacter_0
+  - first:
+      213: 1324235429585745473
+    second: bosscharacter_1
+  - first:
+      213: -6532800558097434992
+    second: bosscharacter_2
+  - first:
+      213: 1296177079647659162
+    second: bosscharacter_3
+  - first:
+      213: -2825295939996232043
+    second: bosscharacter_4
+  - first:
+      213: -5154909451828963289
+    second: bosscharacter_5
+  - first:
+      213: 200821711887423830
+    second: bosscharacter_6
+  - first:
+      213: -226091564786106956
+    second: bosscharacter_7
+  - first:
+      213: 2795828033778859407
+    second: bosscharacter_8
+  - first:
+      213: -1516684940843201522
+    second: bosscharacter_9
+  - first:
+      213: 7278404659148695302
+    second: bosscharacter_10
+  - first:
+      213: 7428381999342873252
+    second: bosscharacter_11
+  - first:
+      213: 8837487430720445232
+    second: bosscharacter_12
+  - first:
+      213: -7619754368087905947
+    second: bosscharacter_13
+  - first:
+      213: 8701921337413000586
+    second: bosscharacter_14
+  - first:
+      213: 3394904691708436414
+    second: bosscharacter_15
+  - first:
+      213: 8606756633991715497
+    second: bosscharacter_16
+  - first:
+      213: -8508263333639597096
+    second: bosscharacter_17
+  - first:
+      213: 238487401499580273
+    second: bosscharacter_18
+  - first:
+      213: 2078093962380608500
+    second: bosscharacter_19
+  - first:
+      213: -5319590268160518245
+    second: bosscharacter_20
+  - first:
+      213: -6733641956210474296
+    second: bosscharacter_21
+  - first:
+      213: 73282284277393202
+    second: bosscharacter_22
+  - first:
+      213: 79220918316253690
+    second: bosscharacter_23
+  - first:
+      213: -2820820777523479294
+    second: bosscharacter_24
+  - first:
+      213: -8206380278731780153
+    second: bosscharacter_25
+  - first:
+      213: -3944625462395148107
+    second: bosscharacter_26
+  - first:
+      213: -1863845972543324243
+    second: bosscharacter_27
+  - first:
+      213: -9044707707012240962
+    second: bosscharacter_28
+  - first:
+      213: -4316448531504102351
+    second: bosscharacter_29
+  - first:
+      213: -6647054291058258577
+    second: bosscharacter_30
+  - first:
+      213: -476041396546385982
+    second: bosscharacter_31
+  - first:
+      213: 5490265061556565999
+    second: bosscharacter_32
+  - first:
+      213: -3548499272153427415
+    second: bosscharacter_33
+  - first:
+      213: -8646525369501415123
+    second: bosscharacter_34
+  - first:
+      213: -4781051476784281978
+    second: bosscharacter_35
+  - first:
+      213: 8614909712045517604
+    second: bosscharacter_36
+  - first:
+      213: 5304841226963374417
+    second: bosscharacter_37
+  - first:
+      213: -1012441731295598713
+    second: bosscharacter_38
+  - first:
+      213: 6454265289612116361
+    second: bosscharacter_39
+  - first:
+      213: -8843058115506980430
+    second: bosscharacter_40
+  - first:
+      213: 1575442344387470856
+    second: bosscharacter_41
+  - first:
+      213: -5261935515200157628
+    second: bosscharacter_42
+  - first:
+      213: -2217254323365145098
+    second: bosscharacter_43
+  - first:
+      213: -2629114735079333386
+    second: bosscharacter_44
+  - first:
+      213: 2150420794992833212
+    second: bosscharacter_45
+  - first:
+      213: -8719978111943882277
+    second: bosscharacter_46
+  - first:
+      213: -8909515364771749061
+    second: bosscharacter_47
+  - first:
+      213: 3808832311985513866
+    second: bosscharacter_48
+  - first:
+      213: -2948440532218156280
+    second: bosscharacter_49
+  - first:
+      213: -6146117745300167542
+    second: bosscharacter_50
+  - first:
+      213: 2799729833366320990
+    second: bosscharacter_51
+  - first:
+      213: 1237059815888366880
+    second: bosscharacter_52
+  - first:
+      213: -3878142945078974665
+    second: bosscharacter_53
+  - first:
+      213: 3127914502882632883
+    second: bosscharacter_54
+  - first:
+      213: 9108130837959611000
+    second: bosscharacter_55
+  - first:
+      213: -7818602103509476668
+    second: bosscharacter_56
+  - first:
+      213: -7984502757376029084
+    second: bosscharacter_57
+  - first:
+      213: 4768075178328468905
+    second: bosscharacter_58
+  - first:
+      213: 6599654502338099971
+    second: bosscharacter_59
+  - first:
+      213: -202395918279000406
+    second: bosscharacter_60
+  - first:
+      213: -5127000368856770720
+    second: bosscharacter_61
+  - first:
+      213: 6606149795857222888
+    second: bosscharacter_62
+  - first:
+      213: 1274736688012956168
+    second: bosscharacter_63
+  - first:
+      213: 1765629927246717494
+    second: bosscharacter_64
+  - first:
+      213: 1403583837251461972
+    second: bosscharacter_65
+  - first:
+      213: 6726910171445012288
+    second: bosscharacter_66
+  - first:
+      213: 3584385029881076348
+    second: bosscharacter_67
+  - first:
+      213: -6420511872520685925
+    second: bosscharacter_68
+  - first:
+      213: 1909045931875292786
+    second: bosscharacter_69
+  - first:
+      213: -9058812792376166097
+    second: bosscharacter_70
+  - first:
+      213: 8371570586678411875
+    second: bosscharacter_71
+  - first:
+      213: 893073859588052639
+    second: bosscharacter_72
+  - first:
+      213: -113610565526953009
+    second: bosscharacter_73
+  - first:
+      213: -1543117139651144626
+    second: bosscharacter_74
+  - first:
+      213: -5448893720498680515
+    second: bosscharacter_75
+  - first:
+      213: 2029051542903856295
+    second: bosscharacter_76
+  - first:
+      213: 1084392339900147932
+    second: bosscharacter_77
+  - first:
+      213: -1783296283484675384
+    second: bosscharacter_78
+  - first:
+      213: 2126647819523844475
+    second: bosscharacter_79
+  - first:
+      213: -3366086649882449281
+    second: bosscharacter_80
+  - first:
+      213: 2119828802571998774
+    second: bosscharacter_81
+  - first:
+      213: -1273044420620524160
+    second: bosscharacter_82
+  - first:
+      213: 8555989090189138562
+    second: bosscharacter_83
+  - first:
+      213: -1971696446605166553
+    second: bosscharacter_84
+  - first:
+      213: 4498431001036071425
+    second: bosscharacter_85
+  - first:
+      213: -6039313604997091778
+    second: bosscharacter_86
+  - first:
+      213: 1166174106287855207
+    second: bosscharacter_87
+  - first:
+      213: 5683983723843813726
+    second: bosscharacter_88
+  - first:
+      213: 5856472842212012144
+    second: bosscharacter_89
+  - first:
+      213: 5917244853462532971
+    second: bosscharacter_90
+  - first:
+      213: -5208182631137316795
+    second: bosscharacter_91
+  - first:
+      213: 2468840617899242695
+    second: bosscharacter_92
+  - first:
+      213: 124205191840645448
+    second: bosscharacter_93
+  - first:
+      213: -8590518537448332540
+    second: bosscharacter_94
+  - first:
+      213: -6738281177008084059
+    second: bosscharacter_95
+  - first:
+      213: -1717634351990463629
+    second: bosscharacter_96
+  - first:
+      213: -1400718517205121567
+    second: bosscharacter_97
+  - first:
+      213: 3199757560565772539
+    second: bosscharacter_98
+  - first:
+      213: 7386046184876728689
+    second: bosscharacter_99
+  - first:
+      213: -799251462945401756
+    second: bosscharacter_100
+  - first:
+      213: -3058118912370839436
+    second: bosscharacter_101
+  - first:
+      213: 5597574301704829911
+    second: bosscharacter_102
+  - first:
+      213: -5481598061834772620
+    second: bosscharacter_103
+  - first:
+      213: 7697158521322871886
+    second: bosscharacter_104
+  - first:
+      213: 4953604987607663029
+    second: bosscharacter_105
+  - first:
+      213: -4329856311936075582
+    second: bosscharacter_106
+  - first:
+      213: 1247518274116780100
+    second: bosscharacter_107
+  - first:
+      213: -6594093013373707846
+    second: bosscharacter_108
+  - first:
+      213: -3173985520779137331
+    second: bosscharacter_109
+  - first:
+      213: 8996190149495091330
+    second: bosscharacter_110
+  - first:
+      213: -4111213716717802299
+    second: bosscharacter_111
+  - first:
+      213: -8291888208725246662
+    second: bosscharacter_112
+  - first:
+      213: 8002262868473286761
+    second: bosscharacter_113
+  - first:
+      213: -7091317973586401885
+    second: bosscharacter_114
+  - first:
+      213: 8810773119929949037
+    second: bosscharacter_115
+  - first:
+      213: -555723729308621129
+    second: bosscharacter_116
+  - first:
+      213: -3519316942001007001
+    second: bosscharacter_117
+  - first:
+      213: 6773109705636787973
+    second: bosscharacter_118
+  - first:
+      213: 7112657753814854375
+    second: bosscharacter_119
+  - first:
+      213: -1380841912659357216
+    second: bosscharacter_120
+  - first:
+      213: 6907097019845423678
+    second: bosscharacter_121
+  - first:
+      213: 4956070711284854907
+    second: bosscharacter_122
+  - first:
+      213: 3576887720040851145
+    second: bosscharacter_123
+  - first:
+      213: 8190664132264556937
+    second: bosscharacter_124
+  - first:
+      213: -6840296209199668298
+    second: bosscharacter_125
+  - first:
+      213: -962001281054819315
+    second: bosscharacter_126
+  - first:
+      213: -8532731693197211413
+    second: bosscharacter_127
+  - first:
+      213: 1605581207754591219
+    second: bosscharacter_128
+  - first:
+      213: 633286289251745502
+    second: bosscharacter_129
+  - first:
+      213: 6257457228194559195
+    second: bosscharacter_130
+  - first:
+      213: 5395950335580503332
+    second: bosscharacter_131
+  - first:
+      213: -8418321151430275101
+    second: bosscharacter_132
+  - first:
+      213: -2074584454388701573
+    second: bosscharacter_133
+  - first:
+      213: 725250669372552019
+    second: bosscharacter_134
+  - first:
+      213: 3223554477605057970
+    second: bosscharacter_135
+  - first:
+      213: 8313014128739567602
+    second: bosscharacter_136
+  - first:
+      213: -8333804126953361708
+    second: bosscharacter_137
+  - first:
+      213: 1976316313289280208
+    second: bosscharacter_138
+  - first:
+      213: -2023602383864454784
+    second: bosscharacter_139
+  - first:
+      213: -763284058564355195
+    second: bosscharacter_140
+  - first:
+      213: -2871471559877833630
+    second: bosscharacter_141
+  - first:
+      213: 4644499384616309880
+    second: bosscharacter_142
+  - first:
+      213: -6512288199509425544
+    second: bosscharacter_143
+  - first:
+      213: 9111969323085431539
+    second: bosscharacter_144
+  - first:
+      213: 5324020122105510088
+    second: bosscharacter_145
+  - first:
+      213: 5865430791847168164
+    second: bosscharacter_146
+  - first:
+      213: 2337576140565010272
+    second: bosscharacter_147
+  - first:
+      213: 3499444794108009723
+    second: bosscharacter_148
+  - first:
+      213: 3453968925424300977
+    second: bosscharacter_149
+  - first:
+      213: -6590540606039555380
+    second: bosscharacter_150
+  - first:
+      213: 925921914833604357
+    second: bosscharacter_151
+  - first:
+      213: 6712052705449112766
+    second: bosscharacter_152
+  - first:
+      213: 6306484768390433521
+    second: bosscharacter_153
+  - first:
+      213: -183288968518736319
+    second: bosscharacter_154
+  - first:
+      213: 9132686871287295287
+    second: bosscharacter_155
+  - first:
+      213: -1995042272572194677
+    second: bosscharacter_156
+  - first:
+      213: -9090563996314820487
+    second: bosscharacter_157
+  - first:
+      213: 356215010702873993
+    second: bosscharacter_158
+  - first:
+      213: 8471726215037486784
+    second: bosscharacter_159
+  - first:
+      213: -8391884715092321526
+    second: bosscharacter_160
+  - first:
+      213: -7129486174239269556
+    second: bosscharacter_161
+  - first:
+      213: -242303132960002958
+    second: bosscharacter_162
+  - first:
+      213: 4000127533538483537
+    second: bosscharacter_163
+  - first:
+      213: 4580698815882405573
+    second: bosscharacter_164
+  - first:
+      213: -7327437243593940794
+    second: bosscharacter_165
+  - first:
+      213: -9062927258124938283
+    second: bosscharacter_166
+  - first:
+      213: 8212254352966880823
+    second: bosscharacter_167
+  - first:
+      213: -9110809321745670368
+    second: bosscharacter_168
+  - first:
+      213: 7369392106756673107
+    second: bosscharacter_169
+  - first:
+      213: -4508449380959279115
+    second: bosscharacter_170
+  - first:
+      213: 843390697469238195
+    second: bosscharacter_171
+  - first:
+      213: 3089889304718763408
+    second: bosscharacter_172
+  - first:
+      213: -1958733743541050967
+    second: bosscharacter_173
+  - first:
+      213: -1863265316787873412
+    second: bosscharacter_174
+  - first:
+      213: -2819085351845092447
+    second: bosscharacter_175
+  - first:
+      213: -6175538830429669712
+    second: bosscharacter_176
+  - first:
+      213: 1139089962026050994
+    second: bosscharacter_177
+  - first:
+      213: -8195415302432621727
+    second: bosscharacter_178
+  - first:
+      213: 366800235187999871
+    second: bosscharacter_179
+  - first:
+      213: 4213256858524822772
+    second: bosscharacter_180
+  - first:
+      213: -9097879267041184621
+    second: bosscharacter_181
+  - first:
+      213: -2007277918269211174
+    second: bosscharacter_182
+  - first:
+      213: -8814433258158291157
+    second: bosscharacter_183
+  - first:
+      213: -7496729755748870075
+    second: bosscharacter_184
+  - first:
+      213: 2222527627250913786
+    second: bosscharacter_185
+  - first:
+      213: -5582307203013073945
+    second: bosscharacter_186
+  - first:
+      213: 1514885571278282008
+    second: bosscharacter_187
+  - first:
+      213: 6686977881746525627
+    second: bosscharacter_188
+  - first:
+      213: -3280230722381319090
+    second: bosscharacter_189
+  - first:
+      213: -6400663016433626411
+    second: bosscharacter_190
+  - first:
+      213: -5311952887813766710
+    second: bosscharacter_191
+  - first:
+      213: -4035638209329425590
+    second: bosscharacter_192
+  - first:
+      213: -8543418007417002762
+    second: bosscharacter_193
+  - first:
+      213: -6664943773893225226
+    second: bosscharacter_194
+  - first:
+      213: 7298757015264689745
+    second: bosscharacter_195
+  - first:
+      213: 3781869529888754727
+    second: bosscharacter_196
+  - first:
+      213: -1395882288567878397
+    second: bosscharacter_197
+  - first:
+      213: 2757164860148633519
+    second: bosscharacter_198
+  - first:
+      213: -5047497097542981013
+    second: bosscharacter_199
+  - first:
+      213: -2276806479180699792
+    second: bosscharacter_200
+  - first:
+      213: -2065877629987882861
+    second: bosscharacter_201
+  - first:
+      213: 4529593317767601628
+    second: bosscharacter_202
+  - first:
+      213: 5445618540623302395
+    second: bosscharacter_203
+  - first:
+      213: 3310727982979631221
+    second: bosscharacter_204
+  - first:
+      213: -245391636606492851
+    second: bosscharacter_205
+  - first:
+      213: -4755197331106372983
+    second: bosscharacter_206
+  - first:
+      213: 3078987739311587678
+    second: bosscharacter_207
+  - first:
+      213: 7050158421867096451
+    second: bosscharacter_208
+  - first:
+      213: 738670412604580357
+    second: bosscharacter_209
+  - first:
+      213: -2846536736313564243
+    second: bosscharacter_210
+  - first:
+      213: 8373999348441107850
+    second: bosscharacter_211
+  - first:
+      213: 6847419416883272433
+    second: bosscharacter_212
+  - first:
+      213: -98440307687270235
+    second: bosscharacter_213
+  - first:
+      213: 3614726020204983353
+    second: bosscharacter_214
+  - first:
+      213: 2938315267789354152
+    second: bosscharacter_215
+  - first:
+      213: -5816897407502726730
+    second: bosscharacter_216
+  - first:
+      213: -4692677638125836242
+    second: bosscharacter_217
+  - first:
+      213: 7600661440399929656
+    second: bosscharacter_218
+  - first:
+      213: 7396385526201799866
+    second: bosscharacter_219
+  - first:
+      213: 288935489979806904
+    second: bosscharacter_220
+  - first:
+      213: -3735864878210137140
+    second: bosscharacter_221
+  - first:
+      213: 6777371282235322927
+    second: bosscharacter_222
+  - first:
+      213: -212846356243058192
+    second: bosscharacter_223
+  - first:
+      213: -6854923072259573440
+    second: bosscharacter_224
+  - first:
+      213: 1738006043066427771
+    second: bosscharacter_225
+  - first:
+      213: 2908377812665153951
+    second: bosscharacter_226
+  - first:
+      213: -1513231497394613555
+    second: bosscharacter_227
+  - first:
+      213: 5260473851157036887
+    second: bosscharacter_228
+  - first:
+      213: -3030164537918317998
+    second: bosscharacter_229
+  - first:
+      213: -1019132651433964374
+    second: bosscharacter_230
+  - first:
+      213: 4289159813741435844
+    second: bosscharacter_231
+  - first:
+      213: -1457266168873811949
+    second: bosscharacter_232
+  - first:
+      213: 7015481425919589283
+    second: bosscharacter_233
+  - first:
+      213: 4341747748198694081
+    second: bosscharacter_234
+  - first:
+      213: -5185287297207292744
+    second: bosscharacter_235
+  - first:
+      213: 5518324868985349308
+    second: bosscharacter_236
+  - first:
+      213: -8565549397435047895
+    second: bosscharacter_237
+  - first:
+      213: 8688001974010528595
+    second: bosscharacter_238
+  - first:
+      213: -1007292040726070364
+    second: bosscharacter_239
+  - first:
+      213: 6547475118095252298
+    second: bosscharacter_240
+  - first:
+      213: 1238764501182809136
+    second: bosscharacter_241
+  - first:
+      213: -7653115275327460743
+    second: bosscharacter_242
+  - first:
+      213: -580782379915329799
+    second: bosscharacter_243
+  - first:
+      213: 2472374030494603943
+    second: bosscharacter_244
+  - first:
+      213: -3073573904027799346
+    second: bosscharacter_245
+  - first:
+      213: -6430221461337649036
+    second: bosscharacter_246
+  - first:
+      213: -7854119002642877319
+    second: bosscharacter_247
+  - first:
+      213: -9352216204598372
+    second: bosscharacter_248
+  - first:
+      213: -6152362491070923733
+    second: bosscharacter_249
+  - first:
+      213: -6602511318644491743
+    second: bosscharacter_250
+  - first:
+      213: -604970995889846880
+    second: bosscharacter_251
+  - first:
+      213: -7414739696376023976
+    second: bosscharacter_252
+  - first:
+      213: -1018575563889217778
+    second: bosscharacter_253
+  - first:
+      213: -5385525778969224444
+    second: bosscharacter_254
+  - first:
+      213: -6063412669659445620
+    second: bosscharacter_255
+  - first:
+      213: -7611402019849851445
+    second: bosscharacter_256
+  - first:
+      213: -653901172599239478
+    second: bosscharacter_257
+  - first:
+      213: 7022331984479287205
+    second: bosscharacter_258
+  - first:
+      213: -4429892662026088917
+    second: bosscharacter_259
+  - first:
+      213: 8460635376356032060
+    second: bosscharacter_260
+  - first:
+      213: 499122203532131212
+    second: bosscharacter_261
+  - first:
+      213: 3710726962835169761
+    second: bosscharacter_262
+  - first:
+      213: 9052449021665781544
+    second: bosscharacter_263
+  - first:
+      213: 5867316925138606470
+    second: bosscharacter_264
+  - first:
+      213: 837006748574869964
+    second: bosscharacter_265
+  - first:
+      213: -1846126054245360653
+    second: bosscharacter_266
+  - first:
+      213: -7833020525268174093
+    second: bosscharacter_267
+  - first:
+      213: 214531941817747737
+    second: bosscharacter_268
+  - first:
+      213: -7227946451883056525
+    second: bosscharacter_269
+  - first:
+      213: -2959348595836188149
+    second: bosscharacter_270
+  - first:
+      213: 7628535056924251956
+    second: bosscharacter_271
+  - first:
+      213: -9219434114937165652
+    second: bosscharacter_272
+  - first:
+      213: -7678482399130978361
+    second: bosscharacter_273
+  - first:
+      213: -8486900633228348403
+    second: bosscharacter_274
+  - first:
+      213: 8692851327646922225
+    second: bosscharacter_275
+  - first:
+      213: -2694242466340363012
+    second: bosscharacter_276
+  - first:
+      213: -856562171859596126
+    second: bosscharacter_277
+  - first:
+      213: -3653141006996266842
+    second: bosscharacter_278
+  - first:
+      213: 6167501552447911040
+    second: bosscharacter_279
+  - first:
+      213: -8778651173592449346
+    second: bosscharacter_280
+  - first:
+      213: -2744878191002943544
+    second: bosscharacter_281
+  - first:
+      213: 5416202145433266545
+    second: bosscharacter_282
+  - first:
+      213: -1810727637621393137
+    second: bosscharacter_283
+  - first:
+      213: -7434004792625817630
+    second: bosscharacter_284
+  - first:
+      213: 400482232283888182
+    second: bosscharacter_285
+  - first:
+      213: -3006443401788429467
+    second: bosscharacter_286
+  - first:
+      213: 8673731944164931305
+    second: bosscharacter_287
+  - first:
+      213: 9044500896633172366
+    second: bosscharacter_288
+  - first:
+      213: 2472017051150713305
+    second: bosscharacter_289
+  - first:
+      213: 7425524323467990065
+    second: bosscharacter_290
+  - first:
+      213: -8587317576979126183
+    second: bosscharacter_291
+  - first:
+      213: -673662972849496045
+    second: bosscharacter_292
+  - first:
+      213: -2466260942244282586
+    second: bosscharacter_293
+  - first:
+      213: -1386864117587071444
+    second: bosscharacter_294
+  - first:
+      213: 7849829763123271158
+    second: bosscharacter_295
+  - first:
+      213: -6766730321566734465
+    second: bosscharacter_296
+  - first:
+      213: 2743976522905590682
+    second: bosscharacter_297
+  - first:
+      213: -2606484429955862056
+    second: bosscharacter_298
+  - first:
+      213: -6623980920561969525
+    second: bosscharacter_299
+  - first:
+      213: 5119647368392614973
+    second: bosscharacter_300
+  - first:
+      213: -5106800364592059080
+    second: bosscharacter_301
+  - first:
+      213: -1874764821660421271
+    second: bosscharacter_302
+  - first:
+      213: -5240597078732428929
+    second: bosscharacter_303
+  - first:
+      213: -3355650526127072765
+    second: bosscharacter_304
+  - first:
+      213: 4040155185037924233
+    second: bosscharacter_305
+  - first:
+      213: 2056091404963471881
+    second: bosscharacter_306
+  - first:
+      213: 690009161720336351
+    second: bosscharacter_307
+  - first:
+      213: 1415499594220903081
+    second: bosscharacter_308
+  - first:
+      213: -5559634503962560722
+    second: bosscharacter_309
+  - first:
+      213: 2031642481947439371
+    second: bosscharacter_310
+  - first:
+      213: 1748457818662636404
+    second: bosscharacter_311
+  - first:
+      213: 1535135064878415615
+    second: bosscharacter_312
+  - first:
+      213: -1489844362870479425
+    second: bosscharacter_313
+  - first:
+      213: 8002808354128020097
+    second: bosscharacter_314
+  - first:
+      213: 3595180062873387831
+    second: bosscharacter_315
+  - first:
+      213: 6093109800447738555
+    second: bosscharacter_316
+  - first:
+      213: 4589448905724865989
+    second: bosscharacter_317
+  - first:
+      213: 6252735677314344107
+    second: bosscharacter_318
+  - first:
+      213: -3872438405060581856
+    second: bosscharacter_319
+  - first:
+      213: 8408550682450899688
+    second: bosscharacter_320
+  - first:
+      213: -8488503439049612220
+    second: bosscharacter_321
+  - first:
+      213: -8246513827603613116
+    second: bosscharacter_322
+  - first:
+      213: 8952852913438904860
+    second: bosscharacter_323
+  - first:
+      213: 4257920203508676621
+    second: bosscharacter_324
+  - first:
+      213: 1631551596988002419
+    second: bosscharacter_325
+  - first:
+      213: -924486071504295732
+    second: bosscharacter_326
+  - first:
+      213: 5195405741088466160
+    second: bosscharacter_327
+  - first:
+      213: 2856167991483727261
+    second: bosscharacter_328
+  - first:
+      213: 5999715835602642060
+    second: bosscharacter_329
+  - first:
+      213: -8170761861311284724
+    second: bosscharacter_330
+  - first:
+      213: 4489167052222622737
+    second: bosscharacter_331
+  - first:
+      213: 8809063357878645206
+    second: bosscharacter_332
+  - first:
+      213: -9097641363362123353
+    second: bosscharacter_333
+  - first:
+      213: -6003654279056537760
+    second: bosscharacter_334
+  - first:
+      213: 3257501982303569578
+    second: bosscharacter_335
+  - first:
+      213: 484821934075984469
+    second: bosscharacter_336
+  - first:
+      213: -6959524119837524976
+    second: bosscharacter_337
+  - first:
+      213: -5885877432043711944
+    second: bosscharacter_338
+  - first:
+      213: -5931628895183819422
+    second: bosscharacter_339
+  - first:
+      213: 898244583181433386
+    second: bosscharacter_340
+  - first:
+      213: 2161533786396490209
+    second: bosscharacter_341
+  - first:
+      213: 9078934666138719968
+    second: bosscharacter_342
+  - first:
+      213: 8959906178771938094
+    second: bosscharacter_343
+  - first:
+      213: -1639954358810034720
+    second: bosscharacter_344
+  - first:
+      213: 3607741085467052117
+    second: bosscharacter_345
+  - first:
+      213: -9204532120158014737
+    second: bosscharacter_346
+  - first:
+      213: -8710121908831506229
+    second: bosscharacter_347
+  - first:
+      213: -5910050781930839117
+    second: bosscharacter_348
+  - first:
+      213: -1493941880115608733
+    second: bosscharacter_349
+  - first:
+      213: 8798710140526785501
+    second: bosscharacter_350
+  - first:
+      213: 8917307678997481704
+    second: bosscharacter_351
+  - first:
+      213: -8173066916443407959
+    second: bosscharacter_352
+  - first:
+      213: 8954453056004967935
+    second: bosscharacter_353
+  - first:
+      213: 7860083550135843640
+    second: bosscharacter_354
+  - first:
+      213: -7688224833049901425
+    second: bosscharacter_355
+  - first:
+      213: -4763542510938838704
+    second: bosscharacter_356
+  - first:
+      213: 704638179599704349
+    second: bosscharacter_357
+  - first:
+      213: -5828906336973596807
+    second: bosscharacter_358
+  - first:
+      213: -8816884686737136138
+    second: bosscharacter_359
+  - first:
+      213: -4952181960367328561
+    second: bosscharacter_360
+  - first:
+      213: -8623940268432695973
+    second: bosscharacter_361
+  - first:
+      213: 865503928942923182
+    second: bosscharacter_362
+  - first:
+      213: -8506148124962910516
+    second: bosscharacter_363
+  - first:
+      213: 6063977744205916336
+    second: bosscharacter_364
+  - first:
+      213: -3170931807038672063
+    second: bosscharacter_365
+  - first:
+      213: -7938845313341808933
+    second: bosscharacter_366
+  - first:
+      213: 6895766178476911584
+    second: bosscharacter_367
+  - first:
+      213: 2832997852432364591
+    second: bosscharacter_368
+  - first:
+      213: -7809059723116470082
+    second: bosscharacter_369
+  - first:
+      213: 8363679854669837734
+    second: bosscharacter_370
+  - first:
+      213: -8574765338916855249
+    second: bosscharacter_371
+  - first:
+      213: -4178251909859262506
+    second: bosscharacter_372
+  - first:
+      213: 412027195834347257
+    second: bosscharacter_373
+  - first:
+      213: -4745695050512809616
+    second: bosscharacter_374
+  - first:
+      213: -6050785660425267206
+    second: bosscharacter_375
+  - first:
+      213: -2834520033083053665
+    second: bosscharacter_376
+  - first:
+      213: -3978478888658697465
+    second: bosscharacter_377
+  - first:
+      213: 1641399379533789601
+    second: bosscharacter_378
+  - first:
+      213: 5809964541707794633
+    second: bosscharacter_379
+  - first:
+      213: 59277107425853562
+    second: bosscharacter_380
+  - first:
+      213: 7749307172333634942
+    second: bosscharacter_381
+  - first:
+      213: -7575896506171299817
+    second: bosscharacter_382
+  - first:
+      213: 6067259832397376828
+    second: bosscharacter_383
+  - first:
+      213: 7012826946281285688
+    second: bosscharacter_384
+  - first:
+      213: 1534268599441679385
+    second: bosscharacter_385
+  - first:
+      213: 3182324370435968121
+    second: bosscharacter_386
+  - first:
+      213: -5684158027341229010
+    second: bosscharacter_387
+  - first:
+      213: 2169670641807795635
+    second: bosscharacter_388
+  - first:
+      213: -3357713282842497380
+    second: bosscharacter_389
+  - first:
+      213: 5559475332687228455
+    second: bosscharacter_390
+  - first:
+      213: 5628717830938112267
+    second: bosscharacter_391
+  - first:
+      213: -9189404238167019601
+    second: bosscharacter_392
+  - first:
+      213: -827007983736821485
+    second: bosscharacter_393
+  - first:
+      213: -5331611953227872832
+    second: bosscharacter_394
+  - first:
+      213: 2282383249529011076
+    second: bosscharacter_395
+  - first:
+      213: -7548724116043030636
+    second: bosscharacter_396
+  - first:
+      213: -539052160646520162
+    second: bosscharacter_397
+  - first:
+      213: -3837557565531297479
+    second: bosscharacter_398
+  - first:
+      213: 60925266663279428
+    second: bosscharacter_399
+  - first:
+      213: 3232508175360697119
+    second: bosscharacter_400
+  - first:
+      213: 9173456617934239985
+    second: bosscharacter_401
+  - first:
+      213: 2606253852870075797
+    second: bosscharacter_402
+  - first:
+      213: -4211505517051572250
+    second: bosscharacter_403
+  - first:
+      213: -6331182260053619509
+    second: bosscharacter_404
+  - first:
+      213: 1761796906091359650
+    second: bosscharacter_405
+  - first:
+      213: 998976289724700437
+    second: bosscharacter_406
+  - first:
+      213: -4022149128728035532
+    second: bosscharacter_407
+  - first:
+      213: 3766391078025111742
+    second: bosscharacter_408
+  - first:
+      213: -7446005638251998396
+    second: bosscharacter_409
+  - first:
+      213: -4304654601980730905
+    second: bosscharacter_410
+  - first:
+      213: -7344542917614738205
+    second: bosscharacter_411
+  - first:
+      213: -2997957881231548972
+    second: bosscharacter_412
+  - first:
+      213: 8736848118878205573
+    second: bosscharacter_413
+  - first:
+      213: -5984091275558276001
+    second: bosscharacter_414
+  - first:
+      213: -454175630061462650
+    second: bosscharacter_415
+  - first:
+      213: -7672530702913722504
+    second: bosscharacter_416
+  - first:
+      213: -2234847830145959596
+    second: bosscharacter_417
+  - first:
+      213: -2461525397320529725
+    second: bosscharacter_418
+  - first:
+      213: -1445811864403302213
+    second: bosscharacter_419
+  - first:
+      213: 6519377202547243763
+    second: bosscharacter_420
+  - first:
+      213: 1099740671438284935
+    second: bosscharacter_421
+  - first:
+      213: -1297420493025467440
+    second: bosscharacter_422
+  - first:
+      213: 4003807752512156745
+    second: bosscharacter_423
+  - first:
+      213: -898237799036411088
+    second: bosscharacter_424
+  - first:
+      213: -4962630462373100994
+    second: bosscharacter_425
+  - first:
+      213: 9038696415889566604
+    second: bosscharacter_426
+  - first:
+      213: 3546334120380454032
+    second: bosscharacter_427
+  - first:
+      213: -3031980896221412196
+    second: bosscharacter_428
+  - first:
+      213: -3536331828207783041
+    second: bosscharacter_429
+  - first:
+      213: 7669960448643354081
+    second: bosscharacter_430
+  - first:
+      213: -4417302685328340902
+    second: bosscharacter_431
+  - first:
+      213: -4186196690551290345
+    second: bosscharacter_432
+  - first:
+      213: -4033737951867373251
+    second: bosscharacter_433
+  - first:
+      213: 1100358716544845698
+    second: bosscharacter_434
+  - first:
+      213: -7222985128128633672
+    second: bosscharacter_435
+  - first:
+      213: 8066390124354779206
+    second: bosscharacter_436
+  - first:
+      213: 968064735072579182
+    second: bosscharacter_437
+  - first:
+      213: -4427873203580814285
+    second: bosscharacter_438
+  - first:
+      213: -8255550133824070604
+    second: bosscharacter_439
+  - first:
+      213: -5754632403809257498
+    second: bosscharacter_440
+  - first:
+      213: -7703048578759243093
+    second: bosscharacter_441
+  - first:
+      213: 7048596510349088135
+    second: bosscharacter_442
+  - first:
+      213: -1291966678303848341
+    second: bosscharacter_443
+  - first:
+      213: 267400046534638318
+    second: bosscharacter_444
+  - first:
+      213: 6111270395811408183
+    second: bosscharacter_445
+  - first:
+      213: 2658986185574065591
+    second: bosscharacter_446
+  - first:
+      213: -4354173939022006167
+    second: bosscharacter_447
+  - first:
+      213: 6648682131267192456
+    second: bosscharacter_448
+  - first:
+      213: 6990742524754368808
+    second: bosscharacter_449
+  - first:
+      213: 5877465046400387890
+    second: bosscharacter_450
+  - first:
+      213: 6080194125601103553
+    second: bosscharacter_451
+  - first:
+      213: -3783255427082899621
+    second: bosscharacter_452
+  - first:
+      213: 5631077765954831848
+    second: bosscharacter_453
+  - first:
+      213: 7008085980076636486
+    second: bosscharacter_454
+  - first:
+      213: -6403982507218407329
+    second: bosscharacter_455
+  - first:
+      213: 1674792004405675207
+    second: bosscharacter_456
+  - first:
+      213: -758567390143899691
+    second: bosscharacter_457
+  - first:
+      213: -3529955706131963078
+    second: bosscharacter_458
+  - first:
+      213: 7218801359715930602
+    second: bosscharacter_459
+  - first:
+      213: -8055632033459826286
+    second: bosscharacter_460
+  - first:
+      213: 3400703065298125849
+    second: bosscharacter_461
+  - first:
+      213: -238539300205095200
+    second: bosscharacter_462
+  - first:
+      213: 4985586545674069855
+    second: bosscharacter_463
+  - first:
+      213: 2972684009419041327
+    second: bosscharacter_464
+  - first:
+      213: -3149355005707941351
+    second: bosscharacter_465
+  - first:
+      213: 5406625704882435791
+    second: bosscharacter_466
+  - first:
+      213: 797102923308735204
+    second: bosscharacter_467
+  - first:
+      213: 1436656433864194200
+    second: bosscharacter_468
+  - first:
+      213: -8336779725675101165
+    second: bosscharacter_469
+  - first:
+      213: 3351338343325172989
+    second: bosscharacter_470
+  - first:
+      213: 4584838477613358888
+    second: bosscharacter_471
+  - first:
+      213: 2239917294192624265
+    second: bosscharacter_472
+  - first:
+      213: 44746072243639976
+    second: bosscharacter_473
+  - first:
+      213: -9164468298349663539
+    second: bosscharacter_474
+  - first:
+      213: -6740615707150104314
+    second: bosscharacter_475
+  - first:
+      213: 3077702326079134843
+    second: bosscharacter_476
+  - first:
+      213: 1668538418103576987
+    second: bosscharacter_477
+  - first:
+      213: 3791832360423617324
+    second: bosscharacter_478
+  - first:
+      213: 6588129838909255787
+    second: bosscharacter_479
+  - first:
+      213: 8148326929000234842
+    second: bosscharacter_480
+  - first:
+      213: -1189512780219416240
+    second: bosscharacter_481
+  - first:
+      213: 5331446531542613991
+    second: bosscharacter_482
+  - first:
+      213: 7888883388767967386
+    second: bosscharacter_483
+  - first:
+      213: 6937868606345033214
+    second: bosscharacter_484
+  - first:
+      213: -4406540085031186153
+    second: bosscharacter_485
+  - first:
+      213: -8990269145403221470
+    second: bosscharacter_486
+  - first:
+      213: -8435699531984964305
+    second: bosscharacter_487
+  - first:
+      213: 4846840544069185880
+    second: bosscharacter_488
+  - first:
+      213: -5846097175351321977
+    second: bosscharacter_489
+  - first:
+      213: -6998495012698501723
+    second: bosscharacter_490
+  - first:
+      213: -3126331306017972722
+    second: bosscharacter_491
+  - first:
+      213: 5125080540234669997
+    second: bosscharacter_492
+  - first:
+      213: 7007117979600036405
+    second: bosscharacter_493
+  - first:
+      213: -3762436598735956715
+    second: bosscharacter_494
+  - first:
+      213: -7224643796569695021
+    second: bosscharacter_495
+  - first:
+      213: -81370495355916108
+    second: bosscharacter_496
+  - first:
+      213: 6174092912473051646
+    second: bosscharacter_497
+  - first:
+      213: -1757615976357965261
+    second: bosscharacter_498
+  - first:
+      213: -7254686199752098120
+    second: bosscharacter_499
+  - first:
+      213: -79589118799402120
+    second: bosscharacter_500
+  - first:
+      213: 7839330093752401875
+    second: bosscharacter_501
+  - first:
+      213: 2148830717205284992
+    second: bosscharacter_502
+  - first:
+      213: -7738462082806104445
+    second: bosscharacter_503
+  - first:
+      213: -371231408877015179
+    second: bosscharacter_504
+  - first:
+      213: -6712770641048346353
+    second: bosscharacter_505
+  - first:
+      213: 7481861730844977720
+    second: bosscharacter_506
+  - first:
+      213: 4643642459804827889
+    second: bosscharacter_507
+  - first:
+      213: 5936430131574312392
+    second: bosscharacter_508
+  - first:
+      213: -8845539325326942360
+    second: bosscharacter_509
+  - first:
+      213: 6775429479942587448
+    second: bosscharacter_510
+  - first:
+      213: 5064009788909426950
+    second: bosscharacter_511
+  - first:
+      213: -3277471972675122841
+    second: bosscharacter_512
+  - first:
+      213: 5340221278873916715
+    second: bosscharacter_513
+  - first:
+      213: -8007945223779072463
+    second: bosscharacter_514
+  - first:
+      213: -1730217963885641854
+    second: bosscharacter_515
+  - first:
+      213: -7185568428972611296
+    second: bosscharacter_516
+  - first:
+      213: 9062152902119313213
+    second: bosscharacter_517
+  - first:
+      213: -4274578554780589493
+    second: bosscharacter_518
+  - first:
+      213: -711528093639665125
+    second: bosscharacter_519
+  - first:
+      213: 3752034337615580949
+    second: bosscharacter_520
+  - first:
+      213: 3005733341048279596
+    second: bosscharacter_521
+  - first:
+      213: -6942371081793156214
+    second: bosscharacter_522
+  - first:
+      213: -8987730015576942467
+    second: bosscharacter_523
+  - first:
+      213: -7248909201941043921
+    second: bosscharacter_524
+  - first:
+      213: -2080926650427114318
+    second: bosscharacter_525
+  - first:
+      213: 8522269452283103673
+    second: bosscharacter_526
+  - first:
+      213: -8065297717048512102
+    second: bosscharacter_527
+  - first:
+      213: 1236184870670932349
+    second: bosscharacter_528
+  - first:
+      213: 5640112392413399294
+    second: bosscharacter_529
+  - first:
+      213: 5293635532358397043
+    second: bosscharacter_530
+  - first:
+      213: -5408458092945343050
+    second: bosscharacter_531
+  - first:
+      213: 4691163968065467928
+    second: bosscharacter_532
+  - first:
+      213: 1704289365816095643
+    second: bosscharacter_533
+  - first:
+      213: 9107698756954504771
+    second: bosscharacter_534
+  - first:
+      213: -8694312023401811795
+    second: bosscharacter_535
+  - first:
+      213: 1923862482516215023
+    second: bosscharacter_536
+  - first:
+      213: -1788525710134115162
+    second: bosscharacter_537
+  - first:
+      213: 1197148180168923028
+    second: bosscharacter_538
+  - first:
+      213: 3635815164261662966
+    second: bosscharacter_539
+  - first:
+      213: 2293948026662565826
+    second: bosscharacter_540
+  - first:
+      213: 7800159660988150750
+    second: bosscharacter_541
+  - first:
+      213: -7012844366744767509
+    second: bosscharacter_542
+  - first:
+      213: -2270420461825619395
+    second: bosscharacter_543
+  - first:
+      213: -6585080854447141420
+    second: bosscharacter_544
+  - first:
+      213: -7205669889142719642
+    second: bosscharacter_545
+  - first:
+      213: 4663767374786613080
+    second: bosscharacter_546
+  - first:
+      213: -3752161852258686669
+    second: bosscharacter_547
+  - first:
+      213: 6560886406242656668
+    second: bosscharacter_548
+  - first:
+      213: 5855913980752483778
+    second: bosscharacter_549
+  - first:
+      213: -5232687106038086621
+    second: bosscharacter_550
+  - first:
+      213: 1005480603134331600
+    second: bosscharacter_551
+  - first:
+      213: 2477057553197714950
+    second: bosscharacter_552
+  - first:
+      213: -6378462966080590884
+    second: bosscharacter_553
+  - first:
+      213: -8879652970593190001
+    second: bosscharacter_554
+  - first:
+      213: 723719465472750245
+    second: bosscharacter_555
+  - first:
+      213: -5507688782717894168
+    second: bosscharacter_556
+  - first:
+      213: -2385801314972302561
+    second: bosscharacter_557
+  - first:
+      213: -3327248448912217451
+    second: bosscharacter_558
+  - first:
+      213: -4469872034563177191
+    second: bosscharacter_559
+  - first:
+      213: -3143750381982711985
+    second: bosscharacter_560
+  - first:
+      213: -2191719824831274334
+    second: bosscharacter_561
+  - first:
+      213: 1806627618340389413
+    second: bosscharacter_562
+  - first:
+      213: -918286956765883491
+    second: bosscharacter_563
+  - first:
+      213: -994846352716685218
+    second: bosscharacter_564
+  - first:
+      213: -2025358127656589516
+    second: bosscharacter_565
+  - first:
+      213: 2079629483530184177
+    second: bosscharacter_566
+  - first:
+      213: 3308767512507520379
+    second: bosscharacter_567
+  - first:
+      213: 1529314949496650111
+    second: bosscharacter_568
+  - first:
+      213: -4577318439959205582
+    second: bosscharacter_569
+  - first:
+      213: 797198104369103207
+    second: bosscharacter_570
+  - first:
+      213: 8496029541193046566
+    second: bosscharacter_571
+  - first:
+      213: -6301197768436923676
+    second: bosscharacter_572
+  - first:
+      213: -6908202874039510523
+    second: bosscharacter_573
+  - first:
+      213: -1435210696430423678
+    second: bosscharacter_574
+  - first:
+      213: -7102392335671089538
+    second: bosscharacter_575
+  - first:
+      213: 2694087862998305815
+    second: bosscharacter_576
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bosscharacter_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 281
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7369569a5b837210800000000000000
+      internalID: 1329559536190186363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 281
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146f17b6b11a06210800000000000000
+      internalID: 1324235429585745473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 281
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f0223184d655a0800000000000000
+      internalID: -6532800558097434992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 281
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e66ebf22fcf110800000000000000
+      internalID: 1296177079647659162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 281
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596db27cf488ac8d0800000000000000
+      internalID: -2825295939996232043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 281
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7285e6a5a251678b0800000000000000
+      internalID: -5154909451828963289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 281
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595c30784679c200800000000000000
+      internalID: 200821711887423830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 281
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd36327be2ccdcf0800000000000000
+      internalID: -226091564786106956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8db776a8c6ccc620800000000000000
+      internalID: 2795828033778859407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 260
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4bd00517a3fae0800000000000000
+      internalID: -1516684940843201522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 260
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6072b109976120560800000000000000
+      internalID: 7278404659148695302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 260
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaecb6321ae61760800000000000000
+      internalID: 7428381999342873252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 254
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b5217ceff05aa70800000000000000
+      internalID: 8837487430720445232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 260
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a36ef5c1314690800000000000000
+      internalID: -7619754368087905947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 260
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dd4e30a5f63c870800000000000000
+      internalID: 8701921337413000586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 260
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf969384df1d1f20800000000000000
+      internalID: 3394904691708436414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa105dde87517770800000000000000
+      internalID: 8606756633991715497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 239
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35ee6a3939ce980800000000000000
+      internalID: -8508263333639597096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 239
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d9c137074f4300800000000000000
+      internalID: 238487401499580273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 239
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38495d27fd6dc10800000000000000
+      internalID: 2078093962380608500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 226
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97daa3e5d40d26b0800000000000000
+      internalID: -5319590268160518245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 233
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28863315c4d82a0800000000000000
+      internalID: -6733641956210474296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 234
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237eeaa69d9540100800000000000000
+      internalID: 73282284277393202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 234
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af145076103791100800000000000000
+      internalID: 79220918316253690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dfbacb27e6ad8d0800000000000000
+      internalID: -2820820777523479294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 218
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfcb62ad941d1e80800000000000000
+      internalID: -8206380278731780153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 218
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e9fd9a00e149c0800000000000000
+      internalID: -3944625462395148107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 218
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf338a86f94226e0800000000000000
+      internalID: -1863845972543324243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 201
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb92c4ae24eba7280800000000000000
+      internalID: -9044707707012240962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 206
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134017c1ee4e814c0800000000000000
+      internalID: -4316448531504102351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 207
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8cb2075be0c3a0800000000000000
+      internalID: -6647054291058258577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 207
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7c87c3fd2c469f0800000000000000
+      internalID: -476041396546385982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 197
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe731dc1cf6513c40800000000000000
+      internalID: 5490265061556565999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 197
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922109576b231cec0800000000000000
+      internalID: -3548499272153427415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 197
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d290779dcfe510880800000000000000
+      internalID: -8646525369501415123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6868a61530b46adb0800000000000000
+      internalID: -4781051476784281978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 174
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b29864dbe4e8770800000000000000
+      internalID: 8614909712045517604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 181
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151dffa5df49e9940800000000000000
+      internalID: 5304841226963374417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 181
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787285a0c9513f1f0800000000000000
+      internalID: -1012441731295598713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 181
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981c671b518229950800000000000000
+      internalID: 6454265289612116361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 186
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b932191f75274580800000000000000
+      internalID: -8843058115506980430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 154
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e25517781dd510800000000000000
+      internalID: 1575442344387470856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 154
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4488b712789d9f6b0800000000000000
+      internalID: -5261935515200157628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 154
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f51f1fb0faba31e0800000000000000
+      internalID: -2217254323365145098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 154
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e9ddf312838bd0800000000000000
+      internalID: -2629114735079333386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 123
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb23923d154d7dd10800000000000000
+      internalID: 2150420794992833212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9476c8b1a6cf680800000000000000
+      internalID: -8719978111943882277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 123
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3325e9fafa0b5480800000000000000
+      internalID: -8909515364771749061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 123
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a852de4cec0bbd430800000000000000
+      internalID: 3808832311985513866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 114
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be5cb15f80517d0800000000000000
+      internalID: -2948440532218156280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 114
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84a8a3697a94baa0800000000000000
+      internalID: -6146117745300167542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 114
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57fcd82373aad620800000000000000
+      internalID: 2799729833366320990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 117
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dafeb295bea2110800000000000000
+      internalID: 1237059815888366880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 123
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737616ae9811e2ac0800000000000000
+      internalID: -3878142945078974665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ac100ba5986b20800000000000000
+      internalID: 3127914502882632883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_55
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 86
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8721d5c7db4966e70800000000000000
+      internalID: 9108130837959611000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_56
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 86
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca1234cfcebe7390800000000000000
+      internalID: -7818602103509476668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e897ebb09513190800000000000000
+      internalID: -7984502757376029084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 77
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad20a2cc1b9b2240800000000000000
+      internalID: 4768075178328468905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 85
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b7b2cadcea69b50800000000000000
+      internalID: 6599654502338099971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_60
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 85
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaebdf21cf1f03df0800000000000000
+      internalID: -202395918279000406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_61
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 80
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067defa145c39d8b0800000000000000
+      internalID: -5127000368856770720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 86
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc61b0d32cdab50800000000000000
+      internalID: 6606149795857222888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8029b2f8346c0b110800000000000000
+      internalID: 1274736688012956168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 51
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e65a6017c08810800000000000000
+      internalID: 1765629927246717494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_65
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 51
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4536adf30188a7310800000000000000
+      internalID: 1403583837251461972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 51
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04721f40929ca5d50800000000000000
+      internalID: 6726910171445012288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_67
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1a4c913b4eb130800000000000000
+      internalID: 3584385029881076348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 59
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f9322872c5e6a0800000000000000
+      internalID: -6420511872520685925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 49
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276d455192b4e7a10800000000000000
+      internalID: 1909045931875292786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2977afc2c1a84280800000000000000
+      internalID: -9058812792376166097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624317181bcd2470800000000000000
+      internalID: 8371570586678411875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96deee81f5d46c00800000000000000
+      internalID: 893073859588052639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 21
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3e807eacf5c6ef0800000000000000
+      internalID: -113610565526953009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 21
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d644232fb59ae0800000000000000
+      internalID: -1543117139651144626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dc1dad704a164b0800000000000000
+      internalID: -5448893720498680515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 19
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac1ebdb0a3a82c10800000000000000
+      internalID: 2029051542903856295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_77
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 29
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd827e876198c0f00800000000000000
+      internalID: 1084392339900147932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 19
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c22f9d7a757047e0800000000000000
+      internalID: -1783296283484675384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_79
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79e315acee538d10800000000000000
+      internalID: 2126647819523844475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosscharacter_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a6296b6024941d0800000000000000
+      internalID: -3366086649882449281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
